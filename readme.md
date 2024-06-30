@@ -26,4 +26,4 @@ Este projeto é um gerador de currículo simples desenvolvido em HTML, CSS, Java
 ## Como Usar
 
 1. Clone este repositório:
-git clone https://github.com/Vane-araujo/curriculo
+ https://github.com/Vane-araujo/curriculo
